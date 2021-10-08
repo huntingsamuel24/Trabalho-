@@ -1,0 +1,89 @@
+.container{
+    margin-top:20px;
+   height: 120px;
+    margin-bottom: 120px;
+
+}
+.algo{
+  
+    font-family: "Trebuchet MS" ;
+
+    font-size: 28px;
+    color: red;
+  color: darkcyan;
+
+}
+.algo2{
+
+      font-family: "Trebuchet MS" ;
+    font-size: 28px;
+margin-top: 40px;
+    margin-right: 500px;
+text-align: center;
+
+
+    color: blue;
+   color: darkcyan;
+
+}
+
+.algo3{
+
+    font-family:"Trebuchet MS" ;
+  font-size: 28px;
+margin-top: 60px;
+
+    margin-right: 900px;
+    border-left: 100px;
+text-align: center;
+
+
+    color: darkcyan;
+
+}
+
+
+.img-fluid{
+
+width: 620px;
+height: 800px;
+margin-left: 100%;
+
+}
+
+.sobre{
+    margin-top:65px;
+margin-right: 40px;
+padding-top: 120px;
+
+}
+
+.item2{
+  margin-top:65px;
+margin-right: 40px;
+
+}
+
+.item3{
+     margin-top:65px;
+margin-right: 40px; 
+
+}
+.item4{
+      margin-top:65px;
+margin-right: 40px;
+
+}
+.item5{
+     margin-top:65px;
+margin-right: 40px; 
+
+}
+.kaka{
+    color: darkcyan;
+    font-family:"Trebuchet MS" ;
+
+}
+
+
+
